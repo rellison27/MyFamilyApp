@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MyFamily</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="my_fam_desc0">Auguste and Mommy</string>
+    <string name="my_fam_year0">2021</string>
+    <string name="my_fam_desc1">Daddy and Auguste</string>
+    <string name="my_fam_year1">2020</string>
+    <string name="my_fam_desc2">Christmas Auguste</string>
+    <string name="my_fam_year2">2021</string>
+    <string name="my_fam_desc3">Auguste, Mommy, and Daddy</string>
+    <string name="my_fam_year3">2021</string>
+    <string name="my_fam_desc4">Auguste on a Rocking Horse</string>
+    <string name="my_fam_year4">2021</string>
 </resources>
